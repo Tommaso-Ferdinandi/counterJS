@@ -8,7 +8,9 @@ Per tutti coloro che sono interessati invece al codice vero proprio vi lascio qu
 
 - .git ( github repository )
 - assets ( tutti i file accessori al html )
+    - audio (audio file per il counter)
     - css ( stile )
+    - images (icone e immagini)
     - js ( codice per il funzionamento del counter e manipolazionente del DOM )
 - index.html ( homepage counter ) 
 - README.md ( descrizione progetto )
