@@ -1,6 +1,6 @@
 Ciao a tutti!! 
 Questo progetto rappresenta la mia iniziazione con Javascript: consiste in un semplice counter con il quale l'utente può interagire. 
-La particolarità inoltre risiede nel fatto che la parte del codice che solitamente appartiene alla stesura del file html, in questo caso è stata realizzata tramite javascript manipolando gli elementi del DOM (così da mettere alla prova ciò che ho imparato).
+La particolarità risede nel fatto che gli elementi del counter appartenenti al file html in questo caso sono stati realizzati tramite javascript manipolando gli elementi del DOM (così da mettere alla prova ciò che ho imparato).
 
 .....
 
