@@ -10,6 +10,5 @@ Per tutti coloro che sono interessati invece al codice vero proprio vi lascio qu
 - assets ( tutti i file accessori al html )
     - css ( stile )
     - js ( codice per il funzionamento del counter e manipolazionente del DOM )
-    - sass (contiene tutti i file .scss collegati ai .css )
 - index.html ( homepage counter ) 
 - README.md ( descrizione progetto )
