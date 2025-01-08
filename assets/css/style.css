@@ -12,4 +12,24 @@ body {
   min-height: 100vh;
 }
 
+section {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: minmax(150px,auto);
+  justify-content: center;
+  align-content: center;
+  grid-row-gap: 10px;
+}
+
+.header {
+  grid-column: 1 / -1;
+}
+
+.displayCounter {
+  grid-column: 1 / -1;
+}
+
+.text {
+  grid-column: 1 / -1;
+}
 
