@@ -15,5 +15,9 @@ Per tutti coloro che sono interessati invece al codice vero proprio vi lascio qu
 - index.html ( homepage counter ) 
 - README.md ( descrizione progetto )
 
+Qui trovi il link al sito web del counter : https://counterjs-tommaso-ferdinandi.netlify.app/
+
 ![counter](https://github.com/user-attachments/assets/8fbf2384-8ce2-476e-a437-272887907d8e)
+
+
 
